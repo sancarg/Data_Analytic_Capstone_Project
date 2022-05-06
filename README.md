@@ -1,1 +1,1 @@
-# Data_Analytic_Projects
+# Data_Analytic_Capstone_Projects
